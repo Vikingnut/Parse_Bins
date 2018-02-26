@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517340160 source:c:\users\chesnutg\codeblocks\parse_bins\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+
